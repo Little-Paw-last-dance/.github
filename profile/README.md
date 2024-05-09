@@ -68,7 +68,7 @@ Estamos abiertos a contribuciones de la comunidad. Si estás interesado en contr
 <html lang="es">
 <body>
     <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
-        <a property="dct:title" rel="cc:attributionURL" href="https://github.com/Little-Paw-last-dance">This project</a> by 
+        <a property="dct:title" rel="cc:attributionURL" href="https://github.com/Little-Paw-last-dance">This project</a> © 2024 by 
         <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/Little-Paw-last-dance">Little Paw</a> is licensed under 
         <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
             Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International

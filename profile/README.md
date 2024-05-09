@@ -16,6 +16,7 @@ Bienvenidos al repositorio central de Little Paw. Aquí encontrarán informació
     - Link de documentacion
         - Swagger 
         - JsDoc
+        - Modelo ER
 
 ![Links usados en los proyectos](/imgs/Little_Paw.png)
 
